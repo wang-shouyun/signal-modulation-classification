@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Dataset
+data/
+
+# Model weights
+*.pth
+
+# Python cache in subfolders
+**/__pycache__/
+
+# Optional: ignore generated results except images
+# results/
+
+# Keep PNG result figures if you want them on GitHub
+# If later you want to ignore all results, uncomment the line above
